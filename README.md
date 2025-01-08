@@ -1,4 +1,4 @@
-# True-True-Random-Number-Generator-
+# True-Random-Number-Generator-
 Random Number generator in python. 
 
 ## Overview
