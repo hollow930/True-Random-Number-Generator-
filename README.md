@@ -40,4 +40,4 @@ pip install psutil
 pip install pyautogui
 
 ## Limitaions 
-Compared to the random module, this program is much slower, so it is not efficient if you want a large number of values.  Furthermore, as n gets very large ( more than 10 figures), there is less variation in the start value, so the numbers will not appear as random. 
+Compared to the random module, this program is much slower, so it is not efficient if you want a large number of values.  Furthermore, as n gets very large ( more than 10 figures), there is less variation in the start value, so the numbers will not appear as random. Finally, as the mouse position plays a role in determining the start value, you might get similar results if the program is run with the mouse in the same position. 
